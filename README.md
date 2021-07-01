@@ -1,2 +1,2 @@
 # Blog-gocode
-List of code from Blog <a href = "gocodeweb.wordpress.com">gocodeweb.wordpress.com</a>
+List of code from Blog <a href = "https://deepneuralnet.wordpress.com/">https://deepneuralnet.wordpress.com/</a>
